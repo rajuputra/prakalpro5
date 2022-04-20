@@ -10,10 +10,12 @@ int main(){
 	input.cetak();
 	input.toFile();
 
+
 	Proses proses;
 	proses.getData();
 	proses.cetak();
 	proses.toFile();
+
 
 	Output output;
 	output.getData();
